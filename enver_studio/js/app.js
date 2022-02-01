@@ -974,7 +974,7 @@ const parallaxAllElements = document.querySelector(".main__parallax-items")
 
 // parallaxElemets(parallaxElementEllipse)
 // parallaxElemets(parallaxElementPolygon)
-parallaxElemets(parallaxElementRectangle)
+// parallaxElemets(parallaxElementRectangle)
 // parallaxElemets(parallaxAllElements)
 
 
